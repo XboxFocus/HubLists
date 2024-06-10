@@ -1,5 +1,7 @@
 1
+activision
+doom
 gears
-metaphor
-octopath
 smt
+xgs
+zenimax
