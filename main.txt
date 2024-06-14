@@ -1,8 +1,5 @@
 2
 0
-activision
 doom
 gears
 smt
-xgs
-zenimax
